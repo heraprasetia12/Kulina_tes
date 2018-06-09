@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Kulina</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_error_title">Sorry</string>
+
+    <string name="material_calendar_monday">M</string>
+    <string name="material_calendar_tuesday">T</string>
+    <string name="material_calendar_wednesday">W</string>
+    <string name="material_calendar_thursday">T</string>
+    <string name="material_calendar_friday">F</string>
+    <string name="material_calendar_saturday">S</string>
+    <string name="material_calendar_sunday">S</string>
+
+    <array name="material_calendar_months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+
+    <string name="material_calendar_today_button">Today</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Cancel</string>
+
+    <string name="tab_title_1">Mulai</string>
+    <string name="tab_title_2">Pengiriman</string>
+    <string name="tab_title_3">Pembayaran</string>
+    <string name="text_title_1">Jumlah box per hari</string>
+    <string name="text_title_2">Lama Langganan</string>
+    <string name="text_hari_lama_langganan_1">20 Hari</string>
+    <string name="text_harga_lama_langganan_1">Rp 22,500/hari</string>
+    <string name="text_hari_lama_langganan_2">10 Hari</string>
+    <string name="text_harga_lama_langganan_2">Rp 24,250/hari</string>
+    <string name="text_hari_lama_langganan_3">5 Hari</string>
+    <string name="text_harga_lama_langganan_3">Rp 25,000/hari</string>
+    <string name="text_hari_lama_langganan_4">Pilih Sendiri</string>
+    <string name="text_harga_lama_langganan_4">Min. 2 hari</string>
+    <string name="text_title_3">Rincian Langganan</string>
+    <string name="text_rincian_1">Harga per box</string>
+    <string name="text_rincian_total_harga_per_box">Rp 0</string>
+    <string name="text_rincian_2">Jumlah Box</string>
+    <string name="text_rincian_jumlah_box">1 Box</string>
+    <string name="text_rincian_3">Lama Langganan</string>
+    <string name="text_rincian_lama_langganan">0 Hari</string>
+    <string name="text_rincian_total">Total</string>
+    <string name="text_rincian_angka_total">Rp 0</string>
+    <string name="button_selanjutnya">Selanjutnya</string>
+
+
+
+</resources>
